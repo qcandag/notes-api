@@ -7,13 +7,13 @@ Made with Node.Js & Express.Js
 Clone the project
 
 ```bash
-https://github.com/qcandag/carrier-crawler.git
+https://github.com/qcandag/notes-api.git
 ```
 
 Move into project
 
 ```bash
-cd carrier-crawler
+cd notes-api
 ```
 
 Install packages
@@ -22,14 +22,10 @@ Install packages
 npm install
 ```
 
-## Usage
+## Run
 
-```javascript
-node ace migration:run
-
-# run the command -> Creates links.txt file if doesnt exist if it is starts crawling
-node ace data:telecom
-
+```bash
+npm run start
 ```
 
 ## Contributing
